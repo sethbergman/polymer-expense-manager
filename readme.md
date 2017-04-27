@@ -1,5 +1,7 @@
 # Progressive Web App with full offline capabilities
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/polymer-expense-manager.svg)](https://greenkeeper.io/)
+
 This is an example project for how you can build a [Progressive Web Application](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) with [Polymer](https://www.polymer-project.org/1.0/), [PouchDB](https://pouchdb.com/) and [Vaadin Elements](https://vaadin.com/elements).
 
 ![Progressive Business App on mobile and desktop](https://vaadin.com/documents/10187/11914215/demo-expense_manager/f254d03f-368c-4793-baa9-a46ad1ad6ea1?t=1452512389930)
