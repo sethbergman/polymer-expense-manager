@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "expense-manager-590dc",
+    "default": "expense-manager-590dc"
+  }
+}
